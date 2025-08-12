@@ -2,7 +2,7 @@
 
 This repository contains a simple **HTML, CSS, and JavaScript** contact form that validates user inputs on the client side. It checks the **Name**, **Email**, and **Message** fields before allowing submission.
 
-🔗 **Live Demo (GitHub Pages)**: https://shashank.github.io/contact-form-validation
+🔗 **Live Demo (GitHub Pages)**:  https://sh111-a.github.io/contact-form-validation/
 
 ---
 
