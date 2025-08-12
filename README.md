@@ -50,10 +50,14 @@ git clone https://github.com/SH111-A/contact-form-validation.git
 
 ## 📧 Contact
 Created by **Shashank**  
-Email: [your-email@example.com](mailto:shashankhn111@gmail.com)
+Email: [shashankhn111@gmail.com](mailto:shashankhn111@gmail.com)
 
 ## 📷 Preview
+<img width="1920" height="1020" alt="Screenshot 2025-08-12 002317" src="https://github.com/user-attachments/assets/0492922a-160c-4bd2-8caa-0928bbb2b69b" />
 
-![Contact Form Preview](<img width="1920" height="1020" alt="Screenshot 2025-08-12 002317" src="https://github.com/user-attachments/assets/9c6b25aa-a9aa-4cd9-86f5-e148de0fdadc" />)
 
+<img width="1920" height="1020" alt="Screenshot 2025-08-12 002406" src="https://github.com/user-attachments/assets/2d7b201b-0ea9-4ecf-8836-98bd1866338a" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-08-12 002442" src="https://github.com/user-attachments/assets/0b765052-d346-4368-a80a-40aadf673b7e" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-12 002505" src="https://github.com/user-attachments/assets/479f5f05-f0bd-4f71-8624-7434db9a4b31" />
